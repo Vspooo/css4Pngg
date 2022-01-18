@@ -1,0 +1,97 @@
+.border{
+    border: 1px solid black;
+    border-radius: 10px ;
+    width: 420px;
+    height: 360px;
+}
+
+.w400{
+    width: 400px;
+
+}
+
+.h100 {
+    height: 100px;
+
+}
+
+.back-g{
+    background-color: silver;
+
+}
+
+.br-radius{
+    border-radius: 10px;
+
+}
+
+.pos-ab{
+    position: absolute;
+
+}
+
+.mar-top{
+    margin-top: 10px;
+
+}
+
+.mar-bottom{
+    margin-bottom: 10px;
+
+}
+
+.mar-sites{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.w100{
+    width: 100px;
+
+}
+
+.h100{
+    height: 100px;
+
+}
+
+.flex{
+    display: flex;
+
+}
+
+.box{
+    display: flex;
+
+}
+
+.box2{
+    display: flex;
+
+}
+
+.w50{
+    width: 50px;
+
+}
+
+.h220 {
+    height: 220px;
+
+}
+
+.pos-reletiv{
+    position: relative;
+
+}
+
+.bottom-240{
+    bottom: 240px;
+
+}
+
+.left-345{
+ left: 345px;
+
+}
